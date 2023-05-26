@@ -1,5 +1,5 @@
 import { axiosCreater } from "../helpers/api";
-export const postsUrlEndpoint = '/posts'
+export const postsUrlEndpoint = '/posts';
 
 const postsApi = axiosCreater
 type TPost = { userId: string; id: string; title: string; body: string }

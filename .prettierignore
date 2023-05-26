@@ -1,0 +1,10 @@
+.gitignore
+.prettierignore
+yarn.lock
+yarn-error.log
+package-lock.json
+LICENSE
+*.ejs
+dist
+pnpm-lock.yaml
+rush-project.json
